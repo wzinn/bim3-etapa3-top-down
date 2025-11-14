@@ -1,19 +1,22 @@
 fileFormatVersion: 2
-guid: 972bb25a5d888fc4f83540531e7f9aa1
+guid: cc0194bbfd899ee4a898bdeb954f5787
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 686021585772860122
-    second: wasd-removebg-preview_0
+      213: 375139511697561768
+    second: spr_explosion1_6_0
   - first:
-      213: 780887712809039231
-    second: wasd-removebg-preview_1
+      213: -5252849180752721185
+    second: spr_explosion1_6_1
   - first:
-      213: 1649546130573891583
-    second: wasd-removebg-preview_2
+      213: 6301888179125751390
+    second: spr_explosion1_6_2
   - first:
-      213: 1465626381865977620
-    second: wasd-removebg-preview_3
+      213: -1684219484672059004
+    second: spr_explosion1_6_3
+  - first:
+      213: 4293385920375420887
+    second: spr_explosion1_6_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -105,43 +108,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: wasd-removebg-preview_0
+      name: spr_explosion1_6_0
       rect:
         serializedVersion: 2
-        x: 41
-        y: 109
-        width: 109
-        height: 113
+        x: 26
+        y: 161
+        width: 38
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,20 +127,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad2dd306ffc358900800000000000000
-      internalID: 686021585772860122
+      spriteID: 8a852f7f563c43500800000000000000
+      internalID: 375139511697561768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wasd-removebg-preview_1
+      name: spr_explosion1_6_1
       rect:
         serializedVersion: 2
-        x: 154
-        y: 220
-        width: 108
-        height: 116
+        x: 150
+        y: 148
+        width: 46
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,20 +149,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f75337bcc3546da00800000000000000
-      internalID: 780887712809039231
+      spriteID: fda488a30812a17b0800000000000000
+      internalID: -5252849180752721185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wasd-removebg-preview_2
+      name: spr_explosion1_6_2
       rect:
         serializedVersion: 2
-        x: 154
-        y: 109
-        width: 108
-        height: 112
+        x: 18
+        y: 107
+        width: 22
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff71a71577d54e610800000000000000
-      internalID: 1649546130573891583
+      spriteID: e5e060bf8edc47750800000000000000
+      internalID: 6301888179125751390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wasd-removebg-preview_3
+      name: spr_explosion1_6_3
       rect:
         serializedVersion: 2
-        x: 266
-        y: 109
-        width: 108
-        height: 113
+        x: 1
+        y: 22
+        width: 47
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,8 +193,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4170098dd63f65410800000000000000
-      internalID: 1465626381865977620
+      spriteID: 48994545d4370a8e0800000000000000
+      internalID: -1684219484672059004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_explosion1_6_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7f3ab4fbb259b30800000000000000
+      internalID: 4293385920375420887
       vertices: []
       indices: 
       edges: []
@@ -235,11 +234,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      wasd-removebg-preview_0: 686021585772860122
-      wasd-removebg-preview_1: 780887712809039231
-      wasd-removebg-preview_2: 1649546130573891583
-      wasd-removebg-preview_3: 1465626381865977620
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
