@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: f01dccb0c82cd2941a864a2cb02a6b0a
+=======
+guid: b21ca7f0ef3228c4aacc7e4ea5135cf1
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,6 +100,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -122,6 +127,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -129,20 +136,34 @@ TextureImporter:
       name: spr_player_2_0
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 0
         y: 0
         width: 60
         height: 80
+=======
+        x: 1
+        y: 0
+        width: 58
+        height: 76
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
+<<<<<<< HEAD
       tessellationDetail: 0
       bones: []
       spriteID: 0e7c1059b39cd5b4ab13503a8d22c98b
       internalID: -444850631
+=======
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2840fa997f144e840800000000000000
+      internalID: 5252395597111952514
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
       vertices: []
       indices: 
       edges: []
@@ -151,7 +172,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< HEAD
     spriteID: dafb96b2fe89f384fab290a0cb179fab
+=======
+    spriteID: 
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
     internalID: 0
     vertices: []
     indices: 
@@ -160,8 +185,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable:
       spr_player_2_0: -444850631
+=======
+    nameFileIdTable: {}
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

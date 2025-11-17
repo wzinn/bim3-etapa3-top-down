@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 86122b57d1aaf6f4abec0aa9aaf59c30
+=======
+guid: 0c877f434f0f0f04a904aa32d1d875d2
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,6 +100,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -122,6 +127,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -131,18 +138,30 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
+<<<<<<< HEAD
         width: 60
         height: 80
+=======
+        width: 59
+        height: 69
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
+<<<<<<< HEAD
       tessellationDetail: 0
       bones: []
       spriteID: 394311fe2e73ad442ae40140d2ce291e
       internalID: -48105158
+=======
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46cec6f37cbbfc30800000000000000
+      internalID: 4394313067678058063
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
       vertices: []
       indices: 
       edges: []
@@ -151,7 +170,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< HEAD
     spriteID: c8eb2b4a87415b04d98fe0c3be9b6604
+=======
+    spriteID: 
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
     internalID: 0
     vertices: []
     indices: 
@@ -160,8 +183,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable:
       spr_zombie1_3_0: -48105158
+=======
+    nameFileIdTable: {}
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

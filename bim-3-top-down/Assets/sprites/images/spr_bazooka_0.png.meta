@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 0706de7d0423ce24590ede2db3c84ac1
+=======
+guid: 2ee26422d642baf4dba7e8268a9272fa
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,6 +100,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -122,6 +127,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -133,8 +140,13 @@ TextureImporter:
         y: 0
         width: 80
         height: 30
+<<<<<<< HEAD
       alignment: 9
       pivot: {x: 0.37906274, y: 0.56046873}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -151,7 +163,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< HEAD
     spriteID: a8c2bdcff8e4e624480a594f3103af61
+=======
+    spriteID: 
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
     internalID: 0
     vertices: []
     indices: 
@@ -160,8 +176,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable:
       spr_bazooka_0_0: 6909385119875833920
+=======
+    nameFileIdTable: {}
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

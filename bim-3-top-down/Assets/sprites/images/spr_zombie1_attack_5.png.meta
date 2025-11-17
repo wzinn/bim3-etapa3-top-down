@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: a65eb9a68b9a4c74b8484bf8890907a1
+=======
+guid: d19a800132056fe429535de5098ff151
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,6 +100,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -122,6 +127,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -129,20 +136,34 @@ TextureImporter:
       name: spr_zombie1_attack_5_0
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 0
         y: 0
         width: 60
         height: 80
+=======
+        x: 5
+        y: 0
+        width: 55
+        height: 70
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
+<<<<<<< HEAD
       tessellationDetail: 0
       bones: []
       spriteID: 2247417aa48e8d44b93d539b2234fcb1
       internalID: -1386817779
+=======
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421a894f479d11750800000000000000
+      internalID: 6274034852246888740
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
       vertices: []
       indices: 
       edges: []
@@ -151,7 +172,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< HEAD
     spriteID: 8f87d6a4ddd006046ae0fc9401b8036c
+=======
+    spriteID: 
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
     internalID: 0
     vertices: []
     indices: 
@@ -160,8 +185,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable:
       spr_zombie1_attack_5_0: -1386817779
+=======
+    nameFileIdTable: {}
+>>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

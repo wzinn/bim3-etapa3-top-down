@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wasd-removebg-preview_0: 686021585772860122
+      wasd-removebg-preview_1: 780887712809039231
+      wasd-removebg-preview_2: 1649546130573891583
+      wasd-removebg-preview_3: 1465626381865977620
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
