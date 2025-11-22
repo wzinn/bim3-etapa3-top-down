@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: b10757aab4be1054eb8356e27b59d7db
-=======
-guid: 4481b10051be46c4086296864bb2197d
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+guid: 7934415c0fcf8f54ba292c698028ca55
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -100,7 +96,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -114,21 +109,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -140,13 +120,8 @@ TextureImporter:
         y: 0
         width: 66
         height: 18
-<<<<<<< HEAD
       alignment: 9
-      pivot: {x: 0.31292516, y: 0.57621574}
-=======
-      alignment: 0
-      pivot: {x: 0, y: 0}
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+      pivot: {x: 0.33358932, y: 0.50000036}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -163,11 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-<<<<<<< HEAD
-    spriteID: 0952aff0b41b6c94493212ef199a8659
-=======
-    spriteID: 
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+    spriteID: ddf5e615e845587439cd13d01504fec8
     internalID: 0
     vertices: []
     indices: 
@@ -176,12 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-<<<<<<< HEAD
     nameFileIdTable:
       spr_machinegun_0_0: 724348036604226505
-=======
-    nameFileIdTable: {}
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

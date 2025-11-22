@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 890f0b80306a89d4aa4cf91a32c3e408
-=======
-guid: 2dcd92b83a47a6d40a09c87aaca652b7
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+guid: 4c9e330ad960ed1479fb793446a582da
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -100,7 +96,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -114,21 +109,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -136,33 +116,20 @@ TextureImporter:
       name: spr_player_0_0
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 0
         y: 0
         width: 60
-=======
-        x: 1
-        y: 0
-        width: 58
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-<<<<<<< HEAD
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1244063470639147ad9f29147ec951e
-      internalID: 282703260
-=======
       tessellationDetail: -1
       bones: []
       spriteID: 3fc8217429ed3f5d0800000000000000
       internalID: -3029833404451222285
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
       vertices: []
       indices: 
       edges: []
@@ -171,11 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-<<<<<<< HEAD
-    spriteID: 7e865b90e7964254097ee9f4db7b18f4
-=======
-    spriteID: 
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+    spriteID: 3db32409a14dce04fb37cb1d1c2a2a10
     internalID: 0
     vertices: []
     indices: 
@@ -183,13 +146,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
-<<<<<<< HEAD
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":60.0,"y":80.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      spr_player_0_0: 282703260
-=======
-    nameFileIdTable: {}
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+      spr_player_0_0: -3029833404451222285
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

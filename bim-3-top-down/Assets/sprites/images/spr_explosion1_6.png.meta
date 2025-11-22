@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 45f22b098adce7a42bba3767f236e8ac
-=======
-guid: cc0194bbfd899ee4a898bdeb954f5787
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+guid: 8f046c847e2e2764e996fafebc2ec875
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -112,7 +108,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -126,21 +121,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -267,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_explosion1_6_0: 375139511697561768
+      spr_explosion1_6_1: -5252849180752721185
+      spr_explosion1_6_2: 6301888179125751390
+      spr_explosion1_6_3: -1684219484672059004
+      spr_explosion1_6_4: 4293385920375420887
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
