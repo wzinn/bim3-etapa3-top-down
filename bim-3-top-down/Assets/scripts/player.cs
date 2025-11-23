@@ -7,7 +7,7 @@ public class Player : Personagem
     
     public Transform arma;
 
-    private bool amdando;
+    private bool andando;
     
     void Start()
     {
@@ -16,7 +16,7 @@ public class Player : Personagem
     }
     void Update()
     {
-        amdando = false;
+        andando = false;
         
         //direita
         if (arma.rotation.eulerAngles.z > -90 
@@ -38,30 +38,30 @@ public class Player : Personagem
         if (Input.GetKey(KeyCode.A))
         {
             transform.position -= new Vector3(getVelocidade() * Time.deltaTime, 0, 0);  
-            amdando = true;
+            andando = true;
         }
 
         //movimento para a direita
         if (Input.GetKey(KeyCode.D))
         {
             transform.position += new Vector3(getVelocidade() * Time.deltaTime, 0, 0);
-            amdando = true;
+            andando = true;
         }
         
         //movimento para a Cima
         if (Input.GetKey(KeyCode.W))
         {
             transform.position += new Vector3(0, getVelocidade() * Time.deltaTime, 0); 
-            amdando = true;
+            andando = true;
         }
         
         //movimento para a Cima
         if (Input.GetKey(KeyCode.S))
         {
             transform.position -= new Vector3(0, getVelocidade() * Time.deltaTime, 0);  
-            amdando = true;
+            andando = true;
         }
         
-        animator.SetBool("Andando", amdando);
+        animator.SetBool("andando", andando);
     }
 }
