@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &4246908951124458991
+--- !u!1 &233210539364189203
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,24 +8,24 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 6229841545844994850}
+  - component: {fileID: 7304091155936516262}
   m_Layer: 0
-  m_Name: SaidaDoTiro
+  m_Name: saidaDoTiro
   m_TagString: Untagged
-  m_Icon: {fileID: 2488908585195742037, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &6229841545844994850
+--- !u!4 &7304091155936516262
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4246908951124458991}
+  m_GameObject: {fileID: 233210539364189203}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.31, y: 0.011, z: 0}
+  m_LocalPosition: {x: 0.396, y: 0.009, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -152,7 +152,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 6229841545844994850}
+  - {fileID: 7304091155936516262}
   m_Father: {fileID: 804803283645809984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &5504291244044827238
@@ -225,9 +225,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 631b609fa946fd345a4e31bc00678034, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Arma
-  saidaDoTiro: {fileID: 6229841545844994850}
+  saidaDoTiro: {fileID: 7304091155936516262}
   bala: {fileID: 0}
-  intevaloDeDisparo: 0.2
+  intevaloDeDisparo: 0.5
   cursor: {fileID: 8907336796444855483}
 --- !u!1 &7733531113152811361
 GameObject:
@@ -246,7 +246,7 @@ GameObject:
   - component: {fileID: 8777222906812371600}
   m_Layer: 0
   m_Name: player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
