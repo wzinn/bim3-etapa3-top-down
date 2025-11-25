@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 0ab67575f500d944a8dae84605e1c6ac
-=======
-guid: 1a085630717740e4cab5cb3e2aa9ae86
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+guid: 96d263e9bb2cd5c40bd3d3e7084130e6
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -100,7 +96,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -114,21 +109,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -167,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_bossIdle_10_0: -4196324700244964624
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

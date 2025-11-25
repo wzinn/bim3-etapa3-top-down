@@ -35,7 +35,7 @@ public class Bala : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Inimigo"))
+        if (collision.gameObject.CompareTag("inimigo"))
         {
             // Causa dano ao Inimigo
             int novaVida = collision.gameObject.GetComponent<Personagem>().getVida() - getDano();

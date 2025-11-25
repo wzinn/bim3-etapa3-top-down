@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 831db506aaee199459dea301acbf8e03
-=======
-guid: 218278d15e34cf441b0f14a7243f377c
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+guid: 623a16763d6aef043b5e8bfb866b3e09
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,7 +99,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -117,21 +112,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -192,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_knife_4_0: 2095480808127858467
+      spr_knife_4_1: 209830685063789818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

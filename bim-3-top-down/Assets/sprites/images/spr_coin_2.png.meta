@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: e97762290f5050c47a5b6c7f938ac76e
-=======
-guid: 69bc71c2b9cfe4241a221b26d0cc4b8d
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+guid: 16a24c57adf625b48b515514af985cc7
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -100,7 +96,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -114,21 +109,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -167,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_coin_2_0: -442161086105116866
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

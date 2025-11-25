@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 35d85a7e7837a8349999b96485b0ddd2
-=======
-guid: 9d4b08747c7a8634eb976e4dfa80f2e7
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+guid: c42bf6544f4af144e8251b41902e551f
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -100,7 +96,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -114,21 +109,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -136,34 +116,20 @@ TextureImporter:
       name: spr_zombie1_eat_0_0
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 0
         y: 0
         width: 60
         height: 80
-=======
-        x: 5
-        y: 0
-        width: 55
-        height: 70
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-<<<<<<< HEAD
-      tessellationDetail: 0
-      bones: []
-      spriteID: f077dc319a537de4abb681ca46dc6cc5
-      internalID: 1434559260
-=======
       tessellationDetail: -1
       bones: []
       spriteID: 55efe295a51786790800000000000000
       internalID: -7536649343547277739
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
       vertices: []
       indices: 
       edges: []
@@ -172,11 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-<<<<<<< HEAD
-    spriteID: 362c86b364d8ec54f9c1c9d05090b7f0
-=======
-    spriteID: 
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+    spriteID: ebc44d9ae9a7c7348b586c83a2fbfa4b
     internalID: 0
     vertices: []
     indices: 
@@ -184,13 +146,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
-<<<<<<< HEAD
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":60.0,"y":80.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      spr_zombie1_eat_0_0: 1434559260
-=======
-    nameFileIdTable: {}
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+      spr_zombie1_eat_0_0: -7536649343547277739
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

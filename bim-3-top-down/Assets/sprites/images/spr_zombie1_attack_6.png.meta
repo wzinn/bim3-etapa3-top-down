@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 13969ab1f8536f846aaadd32630ceb49
-=======
-guid: d82b713507cc67141806b08bcde94bb0
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+guid: 98794f258e9e29d4780ff97e853bd1bc
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -100,7 +96,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -114,21 +109,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -136,34 +116,20 @@ TextureImporter:
       name: spr_zombie1_attack_6_0
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 0
         y: 0
         width: 60
         height: 80
-=======
-        x: 5
-        y: 0
-        width: 55
-        height: 69
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-<<<<<<< HEAD
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0ed87d22fa4d0a142a3cc32da65530c9
-      internalID: -1066027321
-=======
       tessellationDetail: -1
       bones: []
       spriteID: 9617e8bf9815bd330800000000000000
       internalID: 3736669968906744169
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
       vertices: []
       indices: 
       edges: []
@@ -172,11 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-<<<<<<< HEAD
-    spriteID: 837e76bd05bbeac4cb47e016b77ed5d0
-=======
-    spriteID: 
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+    spriteID: 52d06fce34c61d84e94ff242532ec028
     internalID: 0
     vertices: []
     indices: 
@@ -184,13 +146,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
-<<<<<<< HEAD
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":60.0,"y":80.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      spr_zombie1_attack_6_0: -1066027321
-=======
-    nameFileIdTable: {}
->>>>>>> 90cf89fc56ecece1004a3ba2e7e496a19c67acef
+      spr_zombie1_attack_6_0: 3736669968906744169
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
