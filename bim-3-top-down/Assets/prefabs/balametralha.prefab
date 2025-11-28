@@ -169,4 +169,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Bala
   dano: 1
-  velocidade: 1.5
+  velocidade: 0.5
