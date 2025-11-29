@@ -41,8 +41,9 @@ GameObject:
   m_Component:
   - component: {fileID: 3860038908852000433}
   - component: {fileID: 3579699501466138937}
+  - component: {fileID: 2428794884938521775}
   m_Layer: 0
-  m_Name: bazuka
+  m_Name: arma2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -57,10 +58,11 @@ Transform:
   m_GameObject: {fileID: 4826663336676052394}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.4358612, y: -0.040079594, z: 0}
+  m_LocalPosition: {x: 0.022, y: -0.198, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 6966489506849531733}
   m_Father: {fileID: 804803283645809984}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &3579699501466138937
@@ -109,7 +111,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_Sprite: {fileID: 6909385119875833920, guid: 5c365afc3404f8544aeca3d40484ae22, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -121,6 +123,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2428794884938521775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4826663336676052394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 631b609fa946fd345a4e31bc00678034, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Arma
+  saidaDoTiro: {fileID: 6966489506849531733}
+  bala: {fileID: 0}
+  intevaloDeDisparo: 0.2
+  cursor: {fileID: 8907336796444855483}
 --- !u!1 &6271196101592037188
 GameObject:
   m_ObjectHideFlags: 0
@@ -133,12 +151,12 @@ GameObject:
   - component: {fileID: 5504291244044827238}
   - component: {fileID: 1459807058450927165}
   m_Layer: 0
-  m_Name: metralhadora
+  m_Name: arma1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6500301242111161976
 Transform:
   m_ObjectHideFlags: 0
@@ -244,6 +262,7 @@ GameObject:
   - component: {fileID: 4700522518342220576}
   - component: {fileID: 6819889110124554420}
   - component: {fileID: 8777222906812371600}
+  - component: {fileID: 8153450084541593180}
   m_Layer: 0
   m_Name: player
   m_TagString: Player
@@ -465,6 +484,51 @@ MonoBehaviour:
   energia: 10
   velocidade: 5
   arma: {fileID: 6500301242111161976}
+--- !u!114 &8153450084541593180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7733531113152811361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ec0d9300b18e674ebc6f44dfa48f27c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TrocaArma
+  arma1: {fileID: 6271196101592037188}
+  arma2: {fileID: 4826663336676052394}
+--- !u!1 &8789171085001009628
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6966489506849531733}
+  m_Layer: 0
+  m_Name: SaidaDoTiro
+  m_TagString: Untagged
+  m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6966489506849531733
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8789171085001009628}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.471, y: 0.001, z: 0}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3860038908852000433}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &8907336796444855483
 GameObject:
   m_ObjectHideFlags: 0

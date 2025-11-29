@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 5d3847c27984ab84490635ca415a099d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1083158134474789975
+    second: zombie_text-removebg-preview_0
+  - first:
+      213: -8684993051712753337
+    second: zombie_text-removebg-preview_1
+  - first:
+      213: -3069313758478905783
+    second: zombie_text-removebg-preview_2
+  - first:
+      213: 8478738250359061163
+    second: zombie_text-removebg-preview_3
+  - first:
+      213: -599032753458094368
+    second: zombie_text-removebg-preview_4
+  - first:
+      213: -3634596269048851236
+    second: zombie_text-removebg-preview_5
+  - first:
+      213: -1063035559273003152
+    second: zombie_text-removebg-preview_6
+  - first:
+      213: 7282992066595254528
+    second: zombie_text-removebg-preview_7
+  - first:
+      213: -210489604114943320
+    second: zombie_text-removebg-preview_8
+  - first:
+      213: 4307235515186728098
+    second: zombie_text-removebg-preview_9
+  - first:
+      213: -2085157773673978613
+    second: zombie_text-removebg-preview_10
+  - first:
+      213: 5767958013314689177
+    second: zombie_text-removebg-preview_11
+  - first:
+      213: 6012029980883642512
+    second: zombie_text-removebg-preview_12
+  - first:
+      213: -6473716655262368347
+    second: zombie_text-removebg-preview_13
+  - first:
+      213: -5743008975464779603
+    second: zombie_text-removebg-preview_14
+  - first:
+      213: 1358526956370711421
+    second: zombie_text-removebg-preview_15
+  - first:
+      213: -2636109183377266476
+    second: zombie_text-removebg-preview_16
+  - first:
+      213: -3345614100622056645
+    second: zombie_text-removebg-preview_17
+  - first:
+      213: 1473302960283524668
+    second: zombie_text-removebg-preview_18
+  - first:
+      213: -6364619170254746791
+    second: zombie_text-removebg-preview_19
+  - first:
+      213: 3616505886144852762
+    second: zombie_text-removebg-preview_20
+  - first:
+      213: -5478393658810904293
+    second: zombie_text-removebg-preview_21
+  - first:
+      213: -8750572193748093237
+    second: zombie_text-removebg-preview_22
+  - first:
+      213: 8886163828965696560
+    second: zombie_text-removebg-preview_23
+  - first:
+      213: -565861403654832726
+    second: zombie_text-removebg-preview_24
+  - first:
+      213: 5728503814678047302
+    second: zombie_text-removebg-preview_25
+  - first:
+      213: 7263594356897340024
+    second: zombie_text-removebg-preview_26
+  - first:
+      213: -4757544528477717697
+    second: zombie_text-removebg-preview_27
+  - first:
+      213: -6078776670992387251
+    second: zombie_text-removebg-preview_28
+  - first:
+      213: -4474258445869064203
+    second: zombie_text-removebg-preview_29
+  - first:
+      213: 3130100657114582386
+    second: zombie_text-removebg-preview_30
+  - first:
+      213: -4660474346825605048
+    second: zombie_text-removebg-preview_31
+  - first:
+      213: -6491512315426015121
+    second: zombie_text-removebg-preview_32
+  - first:
+      213: -1352094918110560697
+    second: zombie_text-removebg-preview_33
+  - first:
+      213: 246363716929587704
+    second: zombie_text-removebg-preview_34
+  - first:
+      213: 4801188818432219043
+    second: zombie_text-removebg-preview_35
+  - first:
+      213: 6368079233415292726
+    second: zombie_text-removebg-preview_36
+  - first:
+      213: 5346096058837290291
+    second: zombie_text-removebg-preview_37
+  - first:
+      213: -3295360952435790596
+    second: zombie_text-removebg-preview_38
+  - first:
+      213: -4582798693863453031
+    second: zombie_text-removebg-preview_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab2e0f5a69d7f0f0800000000000000
+      internalID: -1083158134474789975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 453
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741fce3a5d4b87780800000000000000
+      internalID: -8684993051712753337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 455
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e45a9066b9765d0800000000000000
+      internalID: -3069313758478905783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 453
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa3b2434878aa570800000000000000
+      internalID: 8478738250359061163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 450
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee5e4172eecfa7f0800000000000000
+      internalID: -599032753458094368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 456
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4126143f15f8dc0800000000000000
+      internalID: -3634596269048851236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 445
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0778ce18ac65f31f0800000000000000
+      internalID: -1063035559273003152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001f56792b2621560800000000000000
+      internalID: 7282992066595254528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 362
+        width: 31
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2f0ddf1d0341df0800000000000000
+      internalID: -210489604114943320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 362
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acc6ae51ef56cb30800000000000000
+      internalID: 4307235515186728098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 362
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05a48f6d080013e0800000000000000
+      internalID: -2085157773673978613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 363
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9986dfec047eb0050800000000000000
+      internalID: 5767958013314689177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 364
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098619d1a650f6350800000000000000
+      internalID: 6012029980883642512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 366
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad7e82500db826a0800000000000000
+      internalID: -6473716655262368347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 279
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0ba8bb3cbbc40b0800000000000000
+      internalID: -5743008975464779603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 275
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73d44ca1157ad210800000000000000
+      internalID: 1358526956370711421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 262
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d827a71aa8aa6bd0800000000000000
+      internalID: -2636109183377266476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 269
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3362e883bdf191d0800000000000000
+      internalID: -3345614100622056645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 263
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e1b3a8c39327410800000000000000
+      internalID: 1473302960283524668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 270
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b035af5945ca7a0800000000000000
+      internalID: -6364619170254746791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 183
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13f5cf31f8603230800000000000000
+      internalID: 3616505886144852762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 186
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11d2da3ef5d8f3b0800000000000000
+      internalID: -5478393658810904293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 184
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6fb3ac3f8bf8680800000000000000
+      internalID: -8750572193748093237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 180
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034ec69ebeef15b70800000000000000
+      internalID: 8886163828965696560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 175
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadbc0b2d08a528f0800000000000000
+      internalID: -565861403654832726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 169
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aea585edbbf7f40800000000000000
+      internalID: 5728503814678047302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 124
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ad56b55987dc460800000000000000
+      internalID: 7263594356897340024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 116
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b7bf8357ec9fdb0800000000000000
+      internalID: -4757544528477717697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 126
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43319013d8d3aba0800000000000000
+      internalID: -6078776670992387251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 124
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffdeac26ad38e1c0800000000000000
+      internalID: -4474258445869064203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 129
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d0882b6f9507b20800000000000000
+      internalID: 3130100657114582386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 128
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840a3a8164ba25fb0800000000000000
+      internalID: -4660474346825605048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 108
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6875ff41f389e5a0800000000000000
+      internalID: -6491512315426015121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 120
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eb86fe5d46c3de0800000000000000
+      internalID: -1352094918110560697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 98
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f90229ce724b6300800000000000000
+      internalID: 246363716929587704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 101
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7da36eacf31a240800000000000000
+      internalID: 4801188818432219043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 41
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637a241c256ff5850800000000000000
+      internalID: 6368079233415292726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dcc1a6a06213a40800000000000000
+      internalID: 5346096058837290291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 58
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc2f5f5ca68442d0800000000000000
+      internalID: -3295360952435790596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_text-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 75
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e052f5ed0a660c0800000000000000
+      internalID: -4582798693863453031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b76335a6c371a2c46b6854337af1df43
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zombie_text-removebg-preview_0: -1083158134474789975
+      zombie_text-removebg-preview_1: -8684993051712753337
+      zombie_text-removebg-preview_10: -2085157773673978613
+      zombie_text-removebg-preview_11: 5767958013314689177
+      zombie_text-removebg-preview_12: 6012029980883642512
+      zombie_text-removebg-preview_13: -6473716655262368347
+      zombie_text-removebg-preview_14: -5743008975464779603
+      zombie_text-removebg-preview_15: 1358526956370711421
+      zombie_text-removebg-preview_16: -2636109183377266476
+      zombie_text-removebg-preview_17: -3345614100622056645
+      zombie_text-removebg-preview_18: 1473302960283524668
+      zombie_text-removebg-preview_19: -6364619170254746791
+      zombie_text-removebg-preview_2: -3069313758478905783
+      zombie_text-removebg-preview_20: 3616505886144852762
+      zombie_text-removebg-preview_21: -5478393658810904293
+      zombie_text-removebg-preview_22: -8750572193748093237
+      zombie_text-removebg-preview_23: 8886163828965696560
+      zombie_text-removebg-preview_24: -565861403654832726
+      zombie_text-removebg-preview_25: 5728503814678047302
+      zombie_text-removebg-preview_26: 7263594356897340024
+      zombie_text-removebg-preview_27: -4757544528477717697
+      zombie_text-removebg-preview_28: -6078776670992387251
+      zombie_text-removebg-preview_29: -4474258445869064203
+      zombie_text-removebg-preview_3: 8478738250359061163
+      zombie_text-removebg-preview_30: 3130100657114582386
+      zombie_text-removebg-preview_31: -4660474346825605048
+      zombie_text-removebg-preview_32: -6491512315426015121
+      zombie_text-removebg-preview_33: -1352094918110560697
+      zombie_text-removebg-preview_34: 246363716929587704
+      zombie_text-removebg-preview_35: 4801188818432219043
+      zombie_text-removebg-preview_36: 6368079233415292726
+      zombie_text-removebg-preview_37: 5346096058837290291
+      zombie_text-removebg-preview_38: -3295360952435790596
+      zombie_text-removebg-preview_39: -4582798693863453031
+      zombie_text-removebg-preview_4: -599032753458094368
+      zombie_text-removebg-preview_5: -3634596269048851236
+      zombie_text-removebg-preview_6: -1063035559273003152
+      zombie_text-removebg-preview_7: 7282992066595254528
+      zombie_text-removebg-preview_8: -210489604114943320
+      zombie_text-removebg-preview_9: 4307235515186728098
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
